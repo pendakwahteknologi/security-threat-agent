@@ -8,6 +8,8 @@ It covers 112 source links, including Malaysian sources such as MyCERT, CyberSec
 
 **The guide:** [AGENT_PROMPT.md](AGENT_PROMPT.md)
 
+**Agent skill:** [skills/threat-monitor/SKILL.md](skills/threat-monitor/SKILL.md) — same guidance, repackaged as an installable skill (Claude Code / OpenCode format) with the source directory in [skills/threat-monitor/SOURCES.md](skills/threat-monitor/SOURCES.md). No guidance changes.
+
 ## What it does
 
 | Area | Behaviour |
